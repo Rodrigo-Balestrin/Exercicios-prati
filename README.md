@@ -44,5 +44,3 @@ Este repositório contém uma coleção de exercícios de JavaScript desenvolvid
 
 Rodrigo Balestrin
 ```
-
-Este `README.md` descreve o propósito do repositório, lista os exercícios e fornece instruções para execução. Você pode ajustar o texto conforme necessário.
