@@ -1,5 +1,3 @@
-Aqui está o `README.md` para o seu código:
-
 ```markdown
 # Exercícios de JavaScript
 
